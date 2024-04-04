@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Eg0S1NR/aWRKNCGVrHLM+S6trXZ9Na+bK290LqV2otgNte7VCeZVhpjwjkCxeR8ElGXvACBeqsPGcELxzfgmEg==",
+  "dgSpecHash": "7+FFmtLDawm7nT0zunMM+DqT32HUd/r7Fby88Qc2pIUFcLFaSf2VWbaYi5oJAEqjmLLJUC7BvA3iPXcMgDrLwA==",
   "success": true,
   "projectFilePath": "C:\\Users\\supra\\Documents\\Practice\\ProductAPI\\ProductAPI.csproj",
   "expectedPackageFiles": [
@@ -76,7 +76,11 @@
     "C:\\Users\\supra\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\supra\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\supra\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\supra\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+    "C:\\Users\\supra\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\supra\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\supra\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\supra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\supra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }

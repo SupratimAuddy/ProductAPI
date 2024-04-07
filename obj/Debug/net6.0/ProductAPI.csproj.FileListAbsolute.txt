@@ -85,3 +85,4 @@ C:\Users\supra\Documents\Practice\ProductAPI\obj\Debug\net6.0\ProductAPI.pdb
 C:\Users\supra\Documents\Practice\ProductAPI\obj\Debug\net6.0\ProductAPI.genruntimeconfig.cache
 C:\Users\supra\Documents\Practice\ProductAPI\obj\Debug\net6.0\ref\ProductAPI.dll
 C:\Users\supra\Documents\Practice\ProductAPI\obj\Debug\net6.0\ProductAPI.csproj.Up2Date
+C:\Users\supra\Documents\Practice\ProductAPI\obj\Debug\net6.0\ProductAPI.sourcelink.json
